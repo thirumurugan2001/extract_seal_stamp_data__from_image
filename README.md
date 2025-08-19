@@ -1,0 +1,1 @@
+# extract_seal_stamp_data__from_image
